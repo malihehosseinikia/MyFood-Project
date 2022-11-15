@@ -1,0 +1,57 @@
+.catalog:hover .pic-row-hover{
+    opacity: 1;
+    transition: 1s ease-out;
+}
+
+
+
+.multiple:hover .sub-multiple{
+    opacity: 1;
+    visibility: visible;
+    transition: 0.5s ease-out;
+}
+
+
+
+.w-30{
+    width: 32%;
+}
+
+.cover:hover .cover-text{
+    opacity: 1;
+    visibility: visible;
+    transition: 0.5s ease-out;
+}
+
+.prev{
+    left: -20px;
+}
+.next{
+    right: -20px;
+}
+
+.top-30{
+    top: -30px;
+}
+
+.top-25{
+    top: -18px;
+}
+
+.right-10{
+    right: -18px;
+}
+
+.zoom:hover{
+    cursor: zoom-in;
+}
+
+
+.menu>li>a:hover{
+    border-bottom: 4px solid #333333 ;
+
+}
+
+.left-10{
+    left: -30px;
+}
